@@ -187,7 +187,7 @@ Secure login system
 
 This project is licensed under the MIT License.
 
-```
+
 ```
 ### 🤝 Contributing
 
