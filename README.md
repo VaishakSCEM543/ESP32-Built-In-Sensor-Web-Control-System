@@ -117,8 +117,7 @@ const char* WIFI_PASSWORD = "YourPassword";
 
 ⚠️ config.h should NOT be committed (it stays private).
 
-```
-```
+
 ### 3️⃣ Flash the Firmware
 
 Open src/main.ino in Arduino IDE
@@ -127,8 +126,7 @@ Select your ESP32 board
 
 Upload
 
-```
-```
+
 ### 4️⃣ Access the Dashboard
 
 After uploading, open the Serial Monitor and get your ESP32 IP:
@@ -139,8 +137,7 @@ After uploading, open the Serial Monitor and get your ESP32 IP:
 Then open the dashboard in your browser:
 
 http://<your-esp32-ip>/
-```
-```
+
 
 ### 🌟 Why This Project Is Unique
 
@@ -152,8 +149,7 @@ Clean architecture and folder structure
 
 Professional UI and usable control system
 
-```
-```
+
 ### Great for:
 
 Mini-projects
@@ -165,8 +161,7 @@ IoT learning
 Portfolio building
 
 Embedded dashboard design practice
-```
-```
+
 
 ### 🔮 Future Enhancements
 
@@ -179,15 +174,13 @@ Graphs & analytics
 Light/Dark theme
 
 Secure login system
-```
-```
+
 
 ### 📜 License
 
 This project is licensed under the MIT License.
 
-```
-```
+
 ### 🤝 Contributing
 
 Contributions, feature requests, and improvements are welcome!
