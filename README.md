@@ -5,7 +5,15 @@ A lightweight, local web-based control dashboard for the ESP32 using only **buil
 This project demonstrates how to transform an ESP32 into a full real-time Web Control Interface using only HTML, CSS, and native Arduino libraries.
 
 ---
+## 📸 Dashboard Preview
 
+<p align="center">
+  <img src="assets/screenshot.png" alt="ESP32 Dashboard Screenshot" width="750">
+</p>
+
+<p align="center">
+  <em>A clean and responsive web dashboard running directly on the ESP32.</em>
+</p>
 ## 🚀 Features
 
 ### 🌐 Local Web Dashboard
