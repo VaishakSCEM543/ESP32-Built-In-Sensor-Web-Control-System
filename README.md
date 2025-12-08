@@ -100,12 +100,5 @@ git clone https://github.com/VaishakSCEM543/ESP32-Built-In-Sensor-Web-Control-Sy
 cd ESP32-Built-In-Sensor-Web-Control-System
 
 
-<p align="center">
-  <img src="assets/screenshot.png" alt="ESP32 Dashboard Screenshot" width="750">
-</p>
-
-<p align="center">
-  <em>A clean and responsive web dashboard running directly on the ESP32.</em>
-</p>
 
 
