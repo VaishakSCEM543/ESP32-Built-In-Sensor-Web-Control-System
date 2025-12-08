@@ -1,0 +1,15 @@
+# Ignore local config with secrets
+src/config.h
+
+# Arduino build artifacts
+*.bin
+*.elf
+*.hex
+*.map
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional assets
+assets/demo.gif
