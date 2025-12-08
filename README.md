@@ -36,21 +36,24 @@ This project demonstrates how to transform an ESP32 into a full real-time Web Co
 
 ---
 
-## 📁 Repository Structure
-
-ESP32-Built-In-Sensor-Web-Control-System/
+📁 ESP32-Built-In-Sensor-Web-Control-System/
+│
 ├── src/
-│ ├── main.ino
-│ └── config.h.example # copy → config.h (not committed)
+│   ├── main.ino
+│   ├── config.h.example     # Copy → config.h (do NOT commit config.h)
+│
 ├── assets/
-│ ├── demo.gif # add your GIF demo here
-│ └── screenshot.png # dashboard screenshot
+│   ├── demo.gif             # Add GIF demo of dashboard
+│   ├── screenshot.png       # Add screenshot of web dashboard
+│
 ├── docs/
-│ └── architecture-diagram.png (optional)
+│   ├── architecture-diagram.png   # Optional: Generated system diagram
+│
 ├── README.md
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── .gitignore
+
 
 
 ---
