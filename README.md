@@ -34,8 +34,9 @@ This project demonstrates how to transform an ESP32 into a full real-time Web Co
 - Free heap memory  
 - Uptime tracking  
 
----
+## Repository Structure
 
+```
 📁 ESP32-Built-In-Sensor-Web-Control-System/
 │
 ├── src/
@@ -43,20 +44,18 @@ This project demonstrates how to transform an ESP32 into a full real-time Web Co
 │   ├── config.h.example     # Copy → config.h (do NOT commit config.h)
 │
 ├── assets/
-│   ├── demo.gif             # Add GIF demo of dashboard
-│   ├── screenshot.png       # Add screenshot of web dashboard
+│   ├── demo.gif             # GIF demo of dashboard
+│   ├── screenshot.png       # Dashboard screenshot
 │
 ├── docs/
-│   ├── architecture-diagram.png   # Optional: Generated system diagram
+│   ├── architecture-diagram.png   # Optional system diagram
 │
 ├── README.md
 ├── CONTRIBUTING.md
 ├── LICENSE
 └── .gitignore
+```
 
-
-
----
 
 ## 🛠 Hardware Requirements
 
