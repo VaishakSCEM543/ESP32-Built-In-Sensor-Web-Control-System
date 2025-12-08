@@ -90,3 +90,7 @@ This project demonstrates how to transform an ESP32 into a full real-time Web Co
 ```bash
 git clone https://github.com/VaishakSCEM543/ESP32-Built-In-Sensor-Web-Control-System.git
 cd ESP32-Built-In-Sensor-Web-Control-System
+
+
+![Dashboard Preview](assets/screenshot.png)
+
