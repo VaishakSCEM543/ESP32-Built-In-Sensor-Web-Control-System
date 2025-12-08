@@ -1,22 +1,11 @@
-\# Contributing
+# ESP32 Built-In Sensor Web Control System
 
+A lightweight, local web-based control dashboard for the ESP32 using **only built-in hardware features** — the on-board LED and capacitive touch sensor — without requiring any external sensors or components.  
 
-
-Thanks for your interest! A few simple rules:
-
-
-
-\- Create a feature branch (`feature/xxxx` or `fix/xxxx`).
-
-\- Keep commits focused and well-named.
-
-\- Open a PR with a short description and screenshot (if UI change).
-
-\- For security-sensitive changes (auth, network), add tests where possible.
-
-
-
-Small fixes and README improvements are welcome. For large changes, open an issue first to discuss the approach.
-
-
-
+This project demonstrates:
+- Real-time web UI hosted by the ESP32  
+- Auto-updating clock via NTP  
+- LED ON/OFF + PWM brightness control  
+- Live touch sensor monitoring  
+- System info (IP, chip ID, memory) shown only on-demand for privacy  
+- Clean, responsive HTML/CSS dashboard  
