@@ -100,8 +100,8 @@ This project demonstrates how to transform an ESP32 into a full real-time Web Co
 ```bash
 git clone https://github.com/VaishakSCEM543/ESP32-Built-In-Sensor-Web-Control-System.git
 cd ESP32-Built-In-Sensor-Web-Control-System
-
-Configure Wi-Fi
+```
+### 2️⃣ Configure Wi-Fi
 
 Create your local config file:
 
@@ -116,7 +116,7 @@ const char* WIFI_PASSWORD = "YourPassword";
 
 ⚠️ config.h should NOT be committed (it stays private).
 
-3️⃣ Flash the Firmware
+### 3️⃣ Flash the Firmware
 
 Open src/main.ino in Arduino IDE
 
@@ -124,7 +124,7 @@ Select your ESP32 board
 
 Upload
 
-4️⃣ Access the Dashboard
+### 4️⃣ Access the Dashboard
 
 After uploading, open the Serial Monitor and get your ESP32 IP:
 
@@ -135,7 +135,7 @@ Then open the dashboard in your browser:
 
 http://<your-esp32-ip>/
 
-🌟 Why This Project Is Unique
+### 🌟 Why This Project Is Unique
 
 Runs fully on internal ESP32 hardware
 
@@ -145,7 +145,7 @@ Clean architecture and folder structure
 
 Professional UI and usable control system
 
-Great for:
+### Great for:
 
 Mini-projects
 
@@ -157,7 +157,7 @@ Portfolio building
 
 Embedded dashboard design practice
 
-🔮 Future Enhancements
+### 🔮 Future Enhancements
 
 WebSockets for ultra-fast real-time updates
 
@@ -169,11 +169,11 @@ Light/Dark theme
 
 Secure login system
 
-📜 License
+### 📜 License
 
 This project is licensed under the MIT License.
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions, feature requests, and improvements are welcome!
 Submit an issue or open a PR anytime.
