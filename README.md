@@ -102,6 +102,7 @@ git clone https://github.com/VaishakSCEM543/ESP32-Built-In-Sensor-Web-Control-Sy
 cd ESP32-Built-In-Sensor-Web-Control-System
 ```
 
+
 ### 2️⃣ Configure Wi-Fi
 
 Create your local config file:
@@ -118,6 +119,7 @@ const char* WIFI_PASSWORD = "YourPassword";
 ⚠️ config.h should NOT be committed (it stays private).
 
 
+
 ### 3️⃣ Flash the Firmware
 
 Open src/main.ino in Arduino IDE
@@ -125,6 +127,7 @@ Open src/main.ino in Arduino IDE
 Select your ESP32 board
 
 Upload
+
 
 
 ### 4️⃣ Access the Dashboard
@@ -139,6 +142,7 @@ Then open the dashboard in your browser:
 http://<your-esp32-ip>/
 
 
+
 ### 🌟 Why This Project Is Unique
 
 Runs fully on internal ESP32 hardware
@@ -148,6 +152,7 @@ No shields, sensors, or external circuits required
 Clean architecture and folder structure
 
 Professional UI and usable control system
+
 
 
 ### Great for:
@@ -163,6 +168,7 @@ Portfolio building
 Embedded dashboard design practice
 
 
+
 ### 🔮 Future Enhancements
 
 WebSockets for ultra-fast real-time updates
@@ -176,9 +182,11 @@ Light/Dark theme
 Secure login system
 
 
+
 ### 📜 License
 
 This project is licensed under the MIT License.
+
 
 
 ### 🤝 Contributing
