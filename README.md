@@ -14,6 +14,8 @@ This project demonstrates how to transform an ESP32 into a full real-time Web Co
 <p align="center">
   <em>A clean and responsive web dashboard running directly on the ESP32.</em>
 </p>
+
+
 ## 🚀 Features
 
 ### 🌐 Local Web Dashboard
