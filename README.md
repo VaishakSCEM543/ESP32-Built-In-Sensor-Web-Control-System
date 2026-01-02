@@ -44,6 +44,42 @@ This project demonstrates how to transform an ESP32 into a full real-time Web Co
 - Free heap memory  
 - Uptime tracking  
 
+## 📐 System Architecture & Design Philosophy
+
+This project is intentionally designed as a **local control and visualization layer** for the ESP32, rather than a sensor-heavy or cloud-dependent system.
+
+### Architectural Role
+
+The ESP32 Built-In Sensor Web Control System acts as:
+
+- A **real-time local dashboard** for monitoring ESP32 internal states  
+- A **human–machine interface (HMI)** for embedded systems  
+- A **frontend control layer** that can sit above more complex telemetry or analytics systems  
+
+The dashboard focuses on **clarity, responsiveness, and reliability**, ensuring that system-level information is accessible without external dependencies.
+
+### Design Philosophy
+
+Key design principles followed in this project:
+
+- **Minimal hardware dependency**  
+  Uses only built-in ESP32 resources (LED, touch sensor, memory, uptime)
+
+- **Local-first operation**  
+  Fully functional over LAN without cloud or internet reliance
+
+- **Privacy-aware design**  
+  Sensitive information such as IP address is not hard-coded into static HTML
+
+- **Extensibility**  
+  The web interface and API endpoints are structured to allow future integration with:
+  - Telemetry pipelines  
+  - Power monitoring modules  
+  - Cloud or ML-based analytics systems  
+
+This makes the project suitable as a **base platform** for advanced ESP32 experimentation while remaining lightweight and undergraduate-friendly.
+
+
 ## Repository Structure
 
 ```
