@@ -227,6 +227,6 @@ This project is licensed under the MIT License.
 
 ### 🤝 Contributing
 
-Contributions, feature requests, and improvements are welcome!
+Contributions, feature requests, and improvements are welcome !
 Submit an issue or open a PR anytime.
 
