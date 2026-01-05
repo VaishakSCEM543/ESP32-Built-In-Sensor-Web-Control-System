@@ -29,7 +29,7 @@ This project demonstrates how to transform an ESP32 into a full real-time Web Co
 
 ### 💡 Built-In LED Control
 - Toggle ON/OFF  
-- Smooth PWM brightness control (0–255)
+- Smooth PWM brightness control(0–255)
 
 ### 🖐 Capacitive Touch Sensor (GPIO4)
 - Shows live touch readings  
